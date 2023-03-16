@@ -1,4 +1,6 @@
-Java is an OOP programming language
+Java is an OOP language
 It is similar to C++
-It is one of the most popular programming languages
+Minecraft was developed in Java
+It is the 2nd most popular programming language
+It is used in many areas of the IT industry
 
