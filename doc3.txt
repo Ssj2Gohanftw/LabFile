@@ -2,3 +2,4 @@ Java is an OOP language
 it is similar to C++
 Minecraft was developed in Java
 It is the 2nd most popular programming language
+It is used in many areas of the IT industry
