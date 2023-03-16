@@ -1,4 +1,3 @@
-Java is an OOP programming language
-It is similar to C++
-It is one of the most popular programming languages
+Java is an OOP language
+it is similar to C++
 
